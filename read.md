@@ -1,0 +1,5 @@
+-   answer = input("In what language do you program?")
+-   if answer != "python":
+-   ... print("I suggest python")
+-   else:
+-   ... print("continue 😉")  
